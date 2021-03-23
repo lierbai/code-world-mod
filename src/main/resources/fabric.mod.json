@@ -3,14 +3,14 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Code World Mod",
+  "description": "Cool! This is an Code World Mod.",
   "authors": [
-    "Me!"
+    "@lierbai"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://mod.quickotp.cn/",
+    "sources": "https://github.com/lierbai/code-world-mod"
   },
 
   "license": "CC0-1.0",
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "cn.quickotp.mod.CodeWorldMod"
     ]
   },
   "mixins": [
